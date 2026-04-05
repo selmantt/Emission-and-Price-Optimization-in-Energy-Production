@@ -21,7 +21,11 @@ Energy production requires balancing economic efficiency and environmental susta
 - Energy source shares (%), renewable share, fossil energy share
 - CO₂ emissions (tonnes), total production (GWh)
 - Average household electricity price (€/kWh)
-
+- Source, Eurostat:
+- 1) https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table
+- 2) https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table
+- Source ,EEA:
+- Link: https://dd.eionet.europa.eu/vocabulary/eurostat/siec/view
 ## Project Structure
 
 ```
@@ -32,28 +36,4 @@ Energy production requires balancing economic efficiency and environmental susta
 └── README.md
 ```
 
-## Usage
 
-```bash
-git clone https://github.com/selmantt/Emission-and-Price-Optimization-in-Energy-Production.git
-cd Emission-and-Price-Optimization-in-Energy-Production
-
-# Run optimization directly
-python genetic.py
-
-# Or explore via notebook
-jupyter notebook main.ipynb
-```
-
-## Tech Stack
-
-| Library | Purpose |
-|---------|---------|
-| `pandas` | Data loading and manipulation |
-| `numpy` | Numerical operations |
-| `random` | Stochastic operations in GA/PSO |
-| `matplotlib` | Visualization (in notebook) |
-
-## Author
-
-**Selman Turan Toker** — AI Engineering Student @ Istanbul Technical University
