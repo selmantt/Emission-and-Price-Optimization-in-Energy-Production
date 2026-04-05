@@ -25,7 +25,7 @@ Energy production requires balancing economic efficiency and environmental susta
 - 1) https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table
 - 2) https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table
 - Source ,EEA:
-- Link: https://dd.eionet.europa.eu/vocabulary/eurostat/siec/view
+- 1) https://dd.eionet.europa.eu/vocabulary/eurostat/siec/view
 ## Project Structure
 
 ```
