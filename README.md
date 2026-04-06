@@ -26,12 +26,12 @@ Energy production requires balancing economic efficiency and environmental susta
 **Sources:**
 - Eurostat: [Energy Balances](https://ec.europa.eu/eurostat/databrowser/view/nrg_bal_peh/default/table) · [Electricity Prices](https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table)
 
-├── utils/                                  # Utility functions and helpers
-├── genetic.py                              # GA + PSO implementation with fitness functions
-├── main.ipynb                              # Main notebook — analysis, visualization, results
-├── combined_data_DE_FR_2020_2022.csv       # Dataset (Germany & France, 2020–2022)
-├── Report.pdf                              # Full project report
-└── README.md
+-├── utils/                                  # Utility functions and helpers
+-├── genetic.py                              # GA + PSO implementation with fitness functions
+-├── main.ipynb                              # Main notebook — analysis, visualization, results
+-├── combined_data_DE_FR_2020_2022.csv       # Dataset (Germany & France, 2020–2022)
+-├── Report.pdf                              # Full project report
+-└── README.md
 
 
 ## Usage
